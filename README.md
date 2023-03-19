@@ -7,6 +7,6 @@ Ffmpeg is needed, and can be installed by
 # On Ubuntu/Debian 
 ```bash $ sudo apt install ffmpeg```
 # on Windows using Winget
-```bash $ winget install --id=Gyan.FFmpeg  -e```
+``` bash $ winget install --id=Gyan.FFmpeg  -e```
 # on windows using Chocolatey 
-```bash $ choco install ffmpeg```
+``` bash $ choco install ffmpeg```
