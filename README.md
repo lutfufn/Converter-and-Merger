@@ -3,7 +3,7 @@ This script uses ffmpeg and can convert filetypes, extract audio and merge video
 Once the script is run, it can apply the option which the user has chosen to the all files within the folder where the script is located.
 
 
-Ffmpeg is need, and can be installed by
+Ffmpeg is needed, and can be installed by
 # On Ubuntu/Debian 
 ```$sudo apt install ffmpeg```
 # on Windows using Winget
