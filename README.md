@@ -4,9 +4,9 @@ Once the script is run, it can apply the option which the user has chosen to the
 
 
 Ffmpeg is need, and can be installed by
-On Ubuntu/Debian 
-  &sudo apt install ffmpeg
-on Windows using winget
+# On Ubuntu/Debian 
+sudo apt install ffmpeg
+# on Windows using winget
   &winget install --id=Gyan.FFmpeg  -e
-on windows using Chocolatey 
+# on windows using Chocolatey 
   &choco install ffmpeg
