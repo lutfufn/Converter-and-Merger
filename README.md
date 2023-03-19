@@ -5,8 +5,14 @@ Once the script is run, it can apply the option which the user has chosen to the
 
 Ffmpeg is needed, and can be installed by
 # On Ubuntu/Debian 
-```bash $ sudo apt install ffmpeg```
+```bash
+$ sudo apt install ffmpeg
+```
 # on Windows using Winget
-``` bash $ winget install --id=Gyan.FFmpeg  -e```
+```bash
+$ winget install --id=Gyan.FFmpeg  -e
+```
 # on windows using Chocolatey 
-``` bash $ choco install ffmpeg```
+```bash 
+$ choco install ffmpeg
+```
